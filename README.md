@@ -1,6 +1,6 @@
 # LispyScript for Unity
 
-A experiment.
+A experiment. Don't use.
 
 ## Roadmap & W.I.P
 
