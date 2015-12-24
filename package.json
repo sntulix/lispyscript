@@ -1,10 +1,10 @@
 {
-  "name": "lispyscript",
-  "description": "A JavaScript with Lispy Syntax and Macros",
+  "name": "ulispyscript",
+  "description": "LispyScript for Unity ",
   "keywords": [
     "javascript",
     "language",
-    "lispyscript",
+    "ulispyscript",
     "compiler",
     "lisp"
   ],
@@ -26,11 +26,11 @@
   "bin": {
     "lispy": "./bin/lispy.js"
   },
-  "homepage": "https://github.com/santoshrajan/lispyscript",
-  "bugs": "https://github.com/santoshrajan/lispyscript/issues",
+  "homepage": "https://github.com/sntulix/ulispyscript/",
+  "bugs": "https://github.com/sntulix/ulispyscript/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/santoshrajan/lispyscript.git"
+    "url": "git@github.com:sntulix/ulispyscript.git"
   },
   "devDependencies": {
     "browserify": ">2.14.1",
