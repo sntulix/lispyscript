@@ -24,7 +24,7 @@
   },
   "main": "./lib/ls",
   "bin": {
-    "lispy": "./bin/lispy.js"
+    "ulispy": "./bin/ulispy.js"
   },
   "homepage": "https://github.com/sntulix/ulispyscript/",
   "bugs": "https://github.com/sntulix/ulispyscript/issues",
@@ -39,8 +39,8 @@
     "underscore": "^1.8.2"
   },
   "scripts": {
-    "test": "lispy test/test.ls test/test.js && node test/test.js",
-    "prepublish": "lispy src/lispy.ls lib/lispy.js && lispy src/repl.ls lib/repl.js && lispy src/require.ls lib/require.js && browserify -t brfs lib/browser.js > lib/browser-bundle.js && lispy test/test.ls test/test.js"
+    "test": "ulispy test/test.ls test/test.js && node test/test.js",
+    "prepublish": "ulispy src/lispy.ls lib/lispy.js && ulispy src/repl.ls lib/repl.js && ulispy src/require.ls lib/require.js && browserify -t brfs lib/browser.js > lib/browser-bundle.js && ulispy test/test.ls test/test.js"
   },
   "preferGlobal": true,
   "dependencies": {
