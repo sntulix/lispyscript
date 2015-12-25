@@ -1,7 +1,16 @@
-# LispyScript for Unity
+# LispyScript customized for UnityScript
+A experiment.
 
-A experiment. Don't use.
+# Supported
+- public, private, static keywords
+- getter, setter keywords
+- specifying function return type
 
 ## Roadmap & W.I.P
-
 not yet.
+
+## Sample
+- ["Acrocatic" partly modified](https://github.com/sntulix/Acrocatic_uLispy_test)
+
+## Note
+in community, using c# is standard.
