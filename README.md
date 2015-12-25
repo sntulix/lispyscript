@@ -10,7 +10,7 @@ A experiment.
 not yet.
 
 ## Sample
-- ["Acrocatic" partly modified](https://github.com/sntulix/Acrocatic_uLispy_test)
+- [Acrocatic](https://github.com/sntulix/Acrocatic_uLispy_test) (partly modified)
 
 ## Note
 in community, using c# is standard.
