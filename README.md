@@ -13,6 +13,6 @@ not yet.
 - [Acrocatic](https://github.com/sntulix/Acrocatic_uLispy_test) (partly modified)
 
 ## Note
-- In community, Using c# is standard.
+- In the community, Using c# is standard.
 - UnityScript doesn't support namespace.
 - Put scripts generated "Assets/Standard Assets/" or "Assets/Plugins/"
